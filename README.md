@@ -30,9 +30,9 @@ A Retrieval-Augmented Generation (RAG) chatbot integrated with a local LLM, cont
 
 ### HaxBot
 
-An Video game Bot.
+A Video game Bot.
 
-- Applies AI/ML techniques(Neural Network, RL) to train a bot.
+Built a reinforcement learning pipeline using Gymnasium and OpenCV to learn policies directly from game frames.
 
 `Tech: Python, AI/ML`
 
