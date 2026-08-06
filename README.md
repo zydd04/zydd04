@@ -1,23 +1,17 @@
 # 👋 Hi, I'm Ziyad
 
-Welcome to my GitHub portfolio! I'm a software engineer/developer passionate about building practical solutions across web development, AI/ML, and cybersecurity. Below you'll find a showcase of some of the projects I've worked on.
 ## Website
-Check out my portfolio website: [https://zydd04.github.io/ziyad.dev]
-## Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-  - [TrackAD](#trackad)
-  - [RAG Chatbot](#rag-chatbot)
-  - [CtrlAI](#ctrlai)
-  - [RoboGuard](#roboguard)
-- [Contact](#contact)
+
+Check out my portfolio website: https://zydd04.github.io/ziyad.dev
 
 ***
-
-## About Me
-
-I'm a developer with hands-on experience building full-stack applications, integrating AI/ML models into real-world systems, and exploring the intersection of software engineering and cybersecurity. I enjoy solving practical problems, whether that means automating a tedious workflow or experimenting with new ways to combine hardware, software, and machine learning.
+## Table of Contents
+- [Skills](#skills)
+- [Projects](#projects)
+  - [RAG Chatbot](#rag-chatbot)
+  - [CtrlAI](#ctrlai)
+  - [HaxBot](#haxbot)
+- [Contact](#contact)
 
 ***
 
@@ -33,21 +27,9 @@ I'm a developer with hands-on experience building full-stack applications, integ
 
 ## Projects
 
-### TrackAD
-
-🖥️ A web application built to track and manage user accounts within an organization's Windows Active Directory.
-
-- Uses AD attributes to generate a centralized table with account information across the organization.
-- Automatically sends email alerts for key account events, including locked accounts, accounts expiring soon, and passwords nearing expiration.
-- Adopted for internal use.
-
-*Note: This project was built for internal company use and is not open source, so the source code is not publicly available.*
-
-***
-
 ### RAG Chatbot
 
-🤖 A Retrieval-Augmented Generation (RAG) chatbot integrated with a local LLM, containerized with Docker.
+A Retrieval-Augmented Generation (RAG) chatbot integrated with a local LLM, containerized with Docker.
 
 - Combines a local large language model with a retrieval pipeline to ground responses in real source material.
 - Designed to reduce hallucinations by grounding answers in retrieved context rather than relying solely on the model's internal knowledge.
@@ -58,23 +40,21 @@ I'm a developer with hands-on experience building full-stack applications, integ
 ***
 
 ### CtrlAI
+ An AI/ML application that translates real-world body movement into in-game actions in real time.
 
-🎮 An AI/ML application that translates real-world body movement into in-game actions in real time.
-
-- A C++ server communicates with a Kotlin-based mobile app and a Python backend.
+- A C++ Desktop App.
 - The Python backend uses computer vision to analyze a live video stream and detect specific body movements (e.g., jumping).
 - Detected movements are translated into keyboard inputs (e.g., pressing spacebar), allowing a player's physical actions to control in-game character movement in real time.
 
-`Tech: C++, Kotlin, Python, Computer Vision, Real-time Video Processing`
+`Tech: C++, Computer Vision, Real-time Video Processing`
 
 ***
 
-### RoboGuard
+### HaxBot
 
-🛡️ An AI-powered cybersecurity agent designed to assist with security tasks.
+An Video game Bot.
 
-- Applies AI/ML techniques to help identify and respond to potential security threats.
-- Built on foundational cybersecurity principles around threat detection and prevention.
+- Applies AI/ML techniques(Neural Network, RL) to train a bot.
 
 `Tech: Python, AI/ML`
 
