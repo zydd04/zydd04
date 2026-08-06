@@ -4,27 +4,6 @@
 
 Check out my portfolio website: https://zydd04.github.io/ziyad.dev
 
-***
-## Table of Contents
-- [Skills](#skills)
-- [Projects](#projects)
-  - [RAG Chatbot](#rag-chatbot)
-  - [CtrlAI](#ctrlai)
-  - [HaxBot](#haxbot)
-- [Contact](#contact)
-
-***
-
-## Skills
-
-- **Languages:** Python, JavaScript, PHP, SQL, C++, Java, Bash
-- **Web & Backend:** REST APIs, SQL databases, IIS deployment
-- **AI/ML:** Local LLMs, RAG pipelines, computer vision
-- **DevOps/Infra:** Docker, server deployment, testing & deployment pipelines
-- **Security:** Cybersecurity fundamentals, threat prevention
-
-***
-
 ## Projects
 
 ### RAG Chatbot
@@ -58,14 +37,3 @@ An Video game Bot.
 
 `Tech: Python, AI/ML`
 
-***
-
-## Contact
-
-📫 Feel free to reach out or connect with me:
-- LinkedIn: https://www.linkedin.com/in/ziyad-el-fettahi-7566b7290/
-- Email: ziyad.elfettahi@mail.mcgill.ca
-
-***
-
-⭐ If you find any of these projects interesting, feel free to check out the repos and give them a star!
