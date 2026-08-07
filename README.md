@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Ziyad
 
-## Website
-
-Check out my portfolio website: https://zydd04.github.io/ziyad.dev
+I'm a software developer who enjoys learning by building. I've worked on full stack web applications, AI projects, and games. I like taking on projects that challenge me to learn new technologies and improve my skills. 
+https://zydd04.github.io/ziyad.dev
 
 ## Projects
 
