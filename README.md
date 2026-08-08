@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ziyad
 
-I'm a software developer who enjoys learning by building. I've worked on full stack web applications, AI projects, and games. I like taking on projects that challenge me to learn new technologies and improve my skills. 
+I'm a software engineer who enjoys learning by building. I've worked on full stack web applications, AI projects, and games. I like taking on projects that challenge me to learn new technologies and improve my skills. 
 https://zydd04.github.io/ziyad.dev
 
 ## Projects
