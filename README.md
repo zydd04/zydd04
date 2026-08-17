@@ -24,7 +24,7 @@ Built a reinforcement learning pipeline using Gymnasium and OpenCV to learn poli
 ### Fashion Store App
 - The goal of this project is to develop a fashion store app in Java with a PostgreSQL database for persistence, backed with an extensive JUnit testing suite.
 - This implementation follows all software lifecycle steps and agile software engineering strategies.
-`Tech: Java, PostgreSQL, JUnit, SpringBoot`
+`Tech: Java, Vue, PostgreSQL, JUnit, SpringBoot`
 ***
 ### Grocery Management System
 A GUI Java application for managing a grocery store's operations.
